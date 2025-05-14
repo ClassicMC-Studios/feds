@@ -12,5 +12,10 @@
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
     "svelte": "^5.28.1",
     "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@threlte/core": "^8.0.4",
+    "@threlte/extras": "^9.2.1",
+    "three": "^0.176.0"
   }
 }
